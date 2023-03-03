@@ -16,6 +16,7 @@
 
 - **[aws-ecr-retag](https://github.com/someimportantcompany/github-actions-aws-ecr-retag)**: Retag a Docker image in ECR without using the Docker CLI.
 - **[aws-s3-env](https://github.com/someimportantcompany/github-actions-aws-s3-env)**: Fetch an env-formatted file from AWS S3, and populate your Github Workflow with its contents.
+- **[ini-config](https://github.com/someimportantcompany/github-actions-ini-config)**: Parse an ini-style configuration block to easily set env or outputs.
 - **[slack-message](https://github.com/someimportantcompany/github-actions-slack-message)**: Send messages to Slack from GitHub Actions.
 
 ## Archived

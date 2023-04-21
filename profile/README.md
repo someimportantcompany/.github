@@ -7,6 +7,7 @@
 - **[data-sets](https://github.com/someimportantcompany/data-sets)**: A collection of static data-sets.
 - **[dynazord](https://github.com/someimportantcompany/dynazord)**: Fetch an env-formatted file from AWS S3, and populate your Github Workflow with its contents.
 - **[graphql-keyvalue](https://github.com/someimportantcompany/graphql-keyvalue)**: A GraphQL Scalar type for Key-Value hashes.
+- **[jsonapi-resolvers](https://github.com/someimportantcompany/jsonapi-resolvers)**: Build a resolving function to help you resolve JSON-API entities.
 - **[koa-graceful-shutdown](https://github.com/someimportantcompany/koa-graceful-shutdown)**: Ensure your Koa server shuts down correctly, rejecting further traffic with _HTTP 503 Service Unavailable_.
 - **[koa-vhost](https://github.com/someimportantcompany/koa-vhost)**: Virtual host splitting for [Koa.js](https://koajs.com).
 - **[redyn](https://github.com/someimportantcompany/redyn)**: Promise-first Redis-implementation backed by DynamoDB.

@@ -4,6 +4,7 @@
 
 ## NodeJS modules
 
+- **[aws-lambda-rie-http](https://github.com/someimportantcompany/aws-lambda-rie-http)**: Lambda Runtime Interface Emulator simulating a HTTP server.
 - **[data-sets](https://github.com/someimportantcompany/data-sets)**: A collection of static data-sets.
 - **[dynazord](https://github.com/someimportantcompany/dynazord)**: Fetch an env-formatted file from AWS S3, and populate your Github Workflow with its contents.
 - **[graphql-keyvalue](https://github.com/someimportantcompany/graphql-keyvalue)**: A GraphQL Scalar type for Key-Value hashes.
@@ -11,6 +12,9 @@
 - **[koa-graceful-shutdown](https://github.com/someimportantcompany/koa-graceful-shutdown)**: Ensure your Koa server shuts down correctly, rejecting further traffic with _HTTP 503 Service Unavailable_.
 - **[koa-vhost](https://github.com/someimportantcompany/koa-vhost)**: Virtual host splitting for [Koa.js](https://koajs.com).
 - **[redyn](https://github.com/someimportantcompany/redyn)**: Promise-first Redis-implementation backed by DynamoDB.
+- **[req-fix-hostname](https://github.com/someimportantcompany/req-fix-hostname)**: Set `req.hostname` to the value of a header.
+- **[supertest-rewrite-json-body](https://github.com/someimportantcompany/supertest-rewrite-json-body)**: Rewrite [supertest](https://npm.im/supertest) body responses to better reinforce your test suite.
+- **[utils](https://github.com/someimportantcompany/utils)**: A collection of handy utility functions for you & your projects.
 - **[yoem](https://github.com/someimportantcompany/yoem)**: Unopinionated self-hosted oembed URL expansion.
 
 ## GitHub Actions
